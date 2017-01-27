@@ -1,0 +1,19 @@
+{
+  "name": "notify-plugin",
+  "version": "0.0.0",
+  "description": "Notify plugin for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayognaise/notify-plugin.git"
+  },
+  "author": "tobimayo <tobimayo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayognaise/notify-plugin/issues"
+  },
+  "homepage": "https://github.com/mayognaise/notify-plugin#readme"
+}
